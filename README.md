@@ -9,6 +9,9 @@ $ https://github.com/Gichia/vue-crash.git
 # Navigate to the folder
 $ cd vue-crash
 
+# Install dependencies
+$ npm install
+
 # Start the server
 $ npm run serve
 ```
