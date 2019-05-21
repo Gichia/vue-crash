@@ -1,29 +1,21 @@
-# vue-crash-todo
+# Vue.js Crash Course
+> This is a todo list app created with the vue.js framework.
 
-## Project setup
-```
-npm install
-```
+# Getting Started
+```bash
+# Clone this repo
+$ https://github.com/Gichia/vue-crash.git
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Navigate to the folder
+$ cd vue-crash
 
-### Compiles and minifies for production
-```
-npm run build
+# Start the server
+$ npm run serve
 ```
 
-### Run your tests
-```
-npm run test
-```
+# App Info
+## Version
+1.0.0
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+Peter Gichia
